@@ -1,0 +1,35 @@
+body
+    {
+    	background-color: hsla(89, 43%, 51%, 0.3);
+    }
+ p 
+    {
+    	font-family: 'Caveat', cursive;
+    	font-size: 15px
+    	color:#26334A;
+    	background-color:#E9967A;
+    }
+h1
+    {
+    	font-family: 'Dancing Script', cursive;
+    	font-size: 15px
+    	color: #493D26;
+    	background-color: #8FBC8F;
+    	border: 2px dotted;
+    }
+
+h3  {
+	font-family: 'Inconsolata', monospace;
+	font-size: 15px
+	color: #848482;
+	background-color: #66CDAA
+    }
+
+h4  {
+	font-family: 'Inconsolata', monospace;
+	font-size: 15px
+	color: Black;
+	background-color: #FFB6C1
+    }
+    
+
